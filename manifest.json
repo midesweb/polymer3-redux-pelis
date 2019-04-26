@@ -1,0 +1,6 @@
+{
+  "name": "pelis",
+  "short_name": "pelis",
+  "start_url": "/",
+  "display": "standalone"
+}
